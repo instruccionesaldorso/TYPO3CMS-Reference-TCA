@@ -80,7 +80,7 @@ Enablecolumns
 .. _field_fe_group:
 
 :sql:`fe_group`
-   This field is used to enable soft delete of records. In can be configured
+   *The sentence between brackets is wrong, it was a copy from "deleted" section; I'd put something like "This field is used to indicate frontend group for the record"* [This field is used to enable soft delete of records]. In can be configured
    by :ref:`ctrl->enablecolumns->fe_group <ctrl-reference-enablecolumns>`:
 
    .. include:: /CodeSnippets/Manual/Ctrl/FeGroup.rst
